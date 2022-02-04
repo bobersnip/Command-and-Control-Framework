@@ -1,5 +1,4 @@
-## LMAOware
-## Custom Command and Control malware framework.
+## LMAOware: Custom Command and Control malware framework.
 ### written by Aidan Nagao (me), Justin Wong, and Edward Chien.
 
 #### Command and Control Framework Features:
