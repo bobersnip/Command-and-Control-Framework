@@ -1,7 +1,8 @@
-####This is a Custom Command and Control malware framework titled: LMAOware, 
-####written by Aidan Nagao (me), Justin Wong, and Edward Chien.
+## LMAOware
+## Custom Command and Control malware framework.
+### written by Aidan Nagao (me), Justin Wong, and Edward Chien.
 
-#####Command and Control Framework Features:
+#### Command and Control Framework Features:
 - Implant gathers environment info before running.
   - This specific implant checks for a specific file before running, making it safe to run on an ordinary machine.
     It will detonate itself before any harm is done, if the file is not found.
@@ -11,7 +12,7 @@
   - Bit strings are hidden within the image pixel values, leaving the images intact, while also concealing (up to) 3 commands.
   - These images are then deleted once used.
 
-#####This framework was written using C++, Python, HTML, and MySQL.
+#### This framework was written using C++, Python, HTML, and MySQL.
 - The malware implant/agent is written with C++.
 - The server is written with Python, using Flask and Gunicorn for hosting.
 - The client (used to send commands to the server) is written with HTML and routing with Flask.
