@@ -1,5 +1,5 @@
 ## LMAOware: Custom Command and Control malware framework.
-### written by Aidan Nagao (me), Justin Wong, and Edward Chien.
+#### written by Aidan Nagao (me), Justin Wong, and Edward Chien.
 
 #### Command and Control Framework Features:
 - Implant gathers environment info before running.
@@ -18,6 +18,5 @@
 - Backend database utilizes MySQL.
 
 
-
-For some more details regarding this project, please see our slides for it here: 
+For some more details regarding this project, especially the steganography, please see our slides here: 
 https://docs.google.com/presentation/d/191optzyMZHfWX9qA45oPp681APqYaaJKk2frK2uthwI/edit#slide=id.g106e742d35d_0_0
