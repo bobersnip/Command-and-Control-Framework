@@ -12,10 +12,10 @@ Command and Control Framework Features:
   - These images are then deleted once used.
 
 This framework was written using C++, Python, HTML, and MySQL.
-- The malware implant/agent was written with C++.
-- The server was written with Python, using Flask and Gunicorn for hosting.
-- The client (used to send commands to the server) was written with HTML and routing with Flask.
-- Backend database utilized MySQL.
+- The malware implant/agent is written with C++.
+- The server is written with Python, using Flask and Gunicorn for hosting.
+- The client (used to send commands to the server) is written with HTML and routing with Flask.
+- Backend database utilizes MySQL.
 
 
 
